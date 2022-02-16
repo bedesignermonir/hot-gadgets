@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: none;
+}
+.gray-p{
+    color: lightgray;
+}
+.h1-bold{
+    font-weight: 900;
+}
+.bg-img{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    background-position: 10px 400px ;
+    background-size: 200px;
+}
+.img-best img{
+    width: 80px;
+    
+}
+.img-best{
+    padding: 0px 0px 100px;
+}
+.carousel-button{
+    background-image: linear-gradient(180deg, red, orange);
+}
+.card-body{
+    text-align: center;
+}
+.card img{
+    padding: 20px;
+    width: 200px;
+
+}
+.spaces{
+    padding-top: 100px;
+}
+.yellowfont{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.line{
+    background-image: linear-gradient(180deg, orange, red);
+    height: 10px;
+    width: 100px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.imgbox{
+    padding: 20px;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius:10px;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
+.imgmarg{
+    margin-right: 50px;
+}
