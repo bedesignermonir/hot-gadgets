@@ -68,14 +68,14 @@ body{
     -o-border-radius: 10px;
 }
 .imgbox{
-    padding: 20px;
+    padding: 30px 100px;
     box-shadow: 10px 10px 20px lightgray;
-    border-radius:10px;
-    border-radius:10px;
+
     -webkit-border-radius:10px;
     -moz-border-radius:10px;
     -ms-border-radius:10px;
     -o-border-radius:10px;
+ 
 }
 .imgmarg{
     margin-right: 50px;
@@ -83,4 +83,7 @@ body{
 
 footer{
     text-align: center;
+}
+.xspaces{
+    margin-top: 50px;
 }
